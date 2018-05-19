@@ -12,6 +12,8 @@ The https://github.com/ultralytics/agm2015 repo contains AntiNeutrino Global Map
 S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned. AGM2015: Antineutrino Global Map 2015. Sci. Rep. 5, 13945; doi: 10.1038/srep13945 (2015).
 http://www.nature.com/articles/srep13945
 
+NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrino.aspx
+
 # Requirements
 
 [MATLAB](https://www.mathworks.com/products/matlab.html) >= 2018a with a common functions repo `$ git clone https://github.com/ultralytics/functions-matlab` added to the MATLAB path `>> addpath(genpath('/functions-matlab'))` and the following toolboxes:
