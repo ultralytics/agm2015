@@ -9,7 +9,7 @@ http://www.ultralytics.com/projects
 
 The https://github.com/ultralytics/agm2015 repo contains AntiNeutrino Global Map (AGM) 2015 production code. For more information please visit http://www.ultralytics.com/agm2015.
 
-S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned. AGM2015: Antineutrino Global Map 2015. Sci. Rep. 5, 13945; doi: 10.1038/srep13945 (2015).
+S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned. **AGM2015: Antineutrino Global Map 2015**. Sci. Rep. 5, 13945; doi: 10.1038/srep13945 (2015).
 http://www.nature.com/articles/srep13945
 
 NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrino.aspx
