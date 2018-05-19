@@ -14,6 +14,8 @@ http://www.nature.com/articles/srep13945
 
 NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrino.aspx
 
+![Alt](https://github.com/ultralytics/agm2015/blob/master/AGM2015small.jpg "AGM2015")
+
 # Requirements
 
 [MATLAB](https://www.mathworks.com/products/matlab.html) >= 2018a with a common functions repo `$ git clone https://github.com/ultralytics/functions-matlab` added to the MATLAB path `>> addpath(genpath('/functions-matlab'))` and the following toolboxes:
@@ -25,9 +27,6 @@ NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrin
 # Running
 
 From MATLAB: `>> fcnrunAGM`
-
-![Alt](https://github.com/ultralytics/agm2015/blob/master/AGM2015small.jpg "AGM2015")
-
 
 # Contact
 
