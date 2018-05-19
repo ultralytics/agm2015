@@ -18,7 +18,7 @@ NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrin
 
 # Requirements
 
-[MATLAB](https://www.mathworks.com/products/matlab.html) >= 2018a with a common functions repo `$ git clone https://github.com/ultralytics/functions-matlab` added to the MATLAB path `>> addpath(genpath('/functions-matlab'))` and the following toolboxes:
+[MATLAB](https://www.mathworks.com/products/matlab.html) >= 2018a with a common functions repo `$ git clone https://github.com/ultralytics/functions-matlab` and the NUDAR repo `$ git clone https://github.com/ultralytics/nudar` both added to the MATLAB path `>> addpath(genpath('/functions-matlab')); addpath(genpath('/nudar'))` and the following toolboxes:
 
 - `Statistics and Machine Learning Toolbox`
 - `Signal Processing Toolbox`
