@@ -24,7 +24,7 @@ http://www.nature.com/articles/srep13945
 
 From MATLAB: `>> fcnrunAGM`
 
-![Alt](https://github.com/University-of-Hawaii-Physics/mtc/blob/master/Analysis/Ultralytics/mtcview.png "mtcView")
+![Alt](https://github.com/ultralytics/agm2015/blob/master/agm2015small.jpg "AGM2015")
 
 
 # Contact
