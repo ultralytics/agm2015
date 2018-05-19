@@ -26,7 +26,7 @@ NGA Press Release: https://www.nga.mil/MediaRoom/PressReleases/Pages/Antineutrin
 
 From MATLAB: `>> fcnrunAGM`
 
-![Alt](https://github.com/ultralytics/agm2015/blob/master/agm2015small.jpg "AGM2015")
+![Alt](https://github.com/ultralytics/agm2015/blob/master/AGM2015small.jpg "AGM2015")
 
 
 # Contact
