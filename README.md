@@ -5,7 +5,7 @@
 
 Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. This project is an innovative endeavor to visualize and analyze antineutrino emissions across the globe, which has implications in geoscience and particle physics. The map produced by this project provides a unique view of antineutrino emissions, capturing data from both natural and artificial sources.
 
-[![Ultralytics Actions](https://github.com/ultralytics/agm2015/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/agm2015/actions/workflows/format.yml)
+[![Ultralytics Actions](https://github.com/ultralytics/agm2015/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/agm2015/actions/workflows/format.yml) <a href="https://ultralytics.com/discord"><img alt="Discord" src="https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue"></a> <a href="https://community.ultralytics.com"><img alt="Ultralytics Forums" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue"></a>
 
 # 📖 Description
 
