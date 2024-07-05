@@ -19,7 +19,7 @@ To dive deeper into the context and findings of this study, you may also check o
 
 Below is a visual representation of AGM2015, illustrating the global distribution of antineutrinos:
 
-![AGM2015 Visualization](https://github.com/ultralytics/agm2015/blob/master/AGM2015small.jpg "AGM2015")
+![AGM2015 Visualization](https://github.com/ultralytics/agm2015/blob/main/AGM2015small.jpg "AGM2015")
 
 # 📦 Requirements
 
