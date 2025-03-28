@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = fcncylindrical2geotiff(z,fname,clims)
 %cmin = min3(z);
 %cmax = cmin*5;

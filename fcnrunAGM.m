@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = fcnrunAGM(input, table, flags)
 startclock=clock;
 %FOR THIS TO WORK RIGHT:

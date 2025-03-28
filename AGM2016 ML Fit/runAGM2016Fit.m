@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [wm, wsu, wsl,mu] = runAGM2016Fit(vp,M,P,TEMP,OC,latm,lngm)
 %call from fcncrust1p0.m
 M(OC==1)=0;  wm=0; wsu=0; wsl=0; mu=0;

@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [refvec, R] = refvecworld(z,RasterInterpretation)
 if nargin==1;  RasterInterpretation = 'postings';  end
 rastersize = size(z);
