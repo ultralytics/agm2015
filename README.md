@@ -15,11 +15,11 @@ Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. Th
 
 This repository hosts the production code for AGM2015, an impactful scientific study detailed in the paper **"AGM2015: Antineutrino Global Map 2015,"** published in Scientific Reports. This research enhances our understanding of antineutrino emissions and their distribution around the Earth.
 
--   **Paper**: S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned - [Read the paper on Nature Scientific Reports](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep13945)
+- **Paper**: S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned - [Read the paper on Nature Scientific Reports](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep13945)
 
 For additional context on the study's significance, you can refer to the National Geospatial-Intelligence Agency (NGA) Press Release:
 
--   **NGA Press Release**: [Antineutrino Global Map Information (via NGA)](https://www.nga.mil/)
+- **NGA Press Release**: [Antineutrino Global Map Information (via NGA)](https://www.nga.mil/)
 
 Below is a visual representation of AGM2015, illustrating the global distribution of antineutrinos:
 
@@ -43,9 +43,9 @@ addpath(genpath('/your_path_to/nudar'));
 
 Please ensure you have the following essential MATLAB toolboxes installed:
 
--   [`Statistics and Machine Learning Toolbox`](https://www.mathworks.com/products/statistics.html)
--   [`Signal Processing Toolbox`](https://www.mathworks.com/products/signal.html)
--   [`Mapping Toolbox`](https://www.mathworks.com/products/mapping.html)
+- [`Statistics and Machine Learning Toolbox`](https://www.mathworks.com/products/statistics.html)
+- [`Signal Processing Toolbox`](https://www.mathworks.com/products/signal.html)
+- [`Mapping Toolbox`](https://www.mathworks.com/products/mapping.html)
 
 These toolboxes provide necessary functions for data analysis, signal processing, and geographical mapping required by the AGM2015 code. For more information on managing MATLAB environments, consult the [official MathWorks documentation](https://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-path.html).
 
@@ -69,8 +69,8 @@ We warmly welcome contributions from the community! Your input, whether it's fix
 
 Ultralytics provides two licensing options to accommodate diverse needs:
 
--   **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-v3) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
--   **Enterprise License**: Designed for commercial applications, this license permits the integration of Ultralytics software and AI models into commercial products without the open-source obligations of AGPL-3.0. If your use case involves commercial deployment, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
+- **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-v3) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
+- **Enterprise License**: Designed for commercial applications, this license permits the integration of Ultralytics software and AI models into commercial products without the open-source obligations of AGPL-3.0. If your use case involves commercial deployment, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 ## 📬 Contact Us
 
