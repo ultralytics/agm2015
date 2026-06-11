@@ -9,25 +9,25 @@
 
 ## 🎯 Introduction
 
-Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. This project represents an innovative endeavor by [Ultralytics](https://www.ultralytics.com/) to visualize and analyze antineutrino emissions across the globe, contributing valuable insights to fields like [geoscience](https://en.wikipedia.org/wiki/Geoscience) and [particle physics](https://home.cern/science/physics/particle-physics). The map produced by this code provides a unique view of antineutrino emissions, capturing data from both natural and artificial sources, showcasing the power of [data visualization](https://www.ultralytics.com/glossary/data-visualization) in scientific research.
+Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. This project represents an innovative endeavor by [Ultralytics](https://www.ultralytics.com/) to visualize and analyze antineutrino emissions across the globe, contributing valuable insights to fields like [geoscience](https://en.wikipedia.org/wiki/Geoscience) and [particle physics](https://home.cern/science/physics/). The map produced by this code provides a unique view of antineutrino emissions, capturing data from both natural and artificial sources, showcasing the power of [data visualization](https://www.ultralytics.com/glossary/data-visualization) in scientific research.
 
 ## 📖 Description
 
 This repository hosts the production code for AGM2015, an impactful scientific study detailed in the paper **"AGM2015: Antineutrino Global Map 2015,"** published in Scientific Reports. This research enhances our understanding of antineutrino emissions and their distribution around the Earth.
 
-- **Paper**: S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned - [Read the paper on Nature Scientific Reports](https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep13945)
+- **Paper**: S.M. Usman, G.R. Jocher, S.T. Dye, W.F. McDonough, and J.G. Learned - [Read the paper on Nature Scientific Reports](https://www.nature.com/articles/srep13945)
 
-For additional context on the study's significance, you can refer to the National Geospatial-Intelligence Agency (NGA) Press Release:
+For additional context on the study's significance, you can refer to coverage of the National Geospatial-Intelligence Agency (NGA) research announcement:
 
-- **NGA Press Release**: [Antineutrino Global Map Information (via NGA)](https://www.nga.mil/)
+- **NGA Research Coverage**: [New NGA global map advances R&D in geophysics and nonproliferation](https://intelligencecommunitynews.com/new-nga-global-map-advances-rd-in-geophysics-and-nonproliferation/)
 
 Below is a visual representation of AGM2015, illustrating the global distribution of antineutrinos:
 
-![AGM2015 Visualization](https://raw.githubusercontent.com/ultralytics/agm2015/main/AGM2015small.jpg)
+![AGM2015 Visualization](AGM2015small.jpg)
 
 ## 📦 Requirements
 
-To execute the code in this repository, you will need [MATLAB](https://www.mathworks.com/products/matlab.html) version 2018a or newer. Additionally, ensure you clone and include the following dependent repositories from Ultralytics:
+To execute the code in this repository, you will need [MATLAB](https://www.mathworks.com/products/matlab.html) R2018a or newer. Additionally, ensure you clone and include the following dependent repositories from Ultralytics:
 
 ```bash
 git clone https://github.com/ultralytics/functions-matlab
@@ -51,10 +51,10 @@ These toolboxes provide necessary functions for data analysis, signal processing
 
 ## 🏃‍♂️ Running the Code
 
-To generate the AGM2015 output using the provided code, simply execute the following command within your MATLAB environment:
+To generate the AGM2015 output using the provided code, initialize the `input`, `table`, and `flags` structures from the dependent `nudar` workflow, then execute the following command within your MATLAB environment:
 
 ```matlab
-fcnrunAGM
+fcnrunAGM(input, table, flags)
 ```
 
 This command initiates the script that processes the data and recreates the Antineutrino Global Map based on the 2015 study. The process leverages various functions from the included repositories and toolboxes. Explore the [Ultralytics documentation](https://docs.ultralytics.com/) for more examples of scientific computing projects.
@@ -69,7 +69,7 @@ We warmly welcome contributions from the community! Your input, whether it's fix
 
 Ultralytics provides two licensing options to accommodate diverse needs:
 
-- **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-v3) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
+- **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-3-0/) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
 - **Enterprise License**: Designed for commercial applications, this license permits the integration of Ultralytics software and AI models into commercial products without the open-source obligations of AGPL-3.0. If your use case involves commercial deployment, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 ## 📬 Contact Us
