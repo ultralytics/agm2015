@@ -61,7 +61,7 @@ This command initiates the script that processes the data and recreates the Anti
 
 ## 🤝 Contribute
 
-We warmly welcome contributions from the community! Your input, whether it's fixing bugs, adding new features, or improving documentation, is invaluable to us. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) to get started. We're also keen to hear about your experiences with Ultralytics software and models; consider filling out our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 thank you to all our contributors for supporting our open-source initiatives! Learn more about our mission on the [Ultralytics About page](https://www.ultralytics.com/about).
+We warmly welcome contributions from the community! Your input, whether it's fixing bugs, adding new features, or improving documentation, is invaluable to us. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing) to get started. We're also keen to hear about your experiences with Ultralytics software and models; consider filling out our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A huge 🙏 thank you to all our contributors for supporting our open-source initiatives! Learn more about our mission on the [Ultralytics About page](https://www.ultralytics.com/about).
 
 [![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/ultralytics/graphs/contributors)
 
@@ -69,7 +69,7 @@ We warmly welcome contributions from the community! Your input, whether it's fix
 
 Ultralytics provides two licensing options to accommodate diverse needs:
 
-- **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-3-0/) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
+- **AGPL-3.0 License**: Ideal for students and enthusiasts, this [OSI-approved](https://opensource.org/license/agpl-3-0) open-source license promotes collaboration and knowledge sharing. See the [LICENSE](https://github.com/ultralytics/agm2015/blob/main/LICENSE) file for details.
 - **Enterprise License**: Designed for commercial applications, this license permits the integration of Ultralytics software and AI models into commercial products without the open-source obligations of AGPL-3.0. If your use case involves commercial deployment, please reach out through [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 ## 📬 Contact Us
