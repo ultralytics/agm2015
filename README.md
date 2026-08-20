@@ -1,15 +1,15 @@
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # AntiNeutrino Global Map (AGM) 2015
 
 [![Ultralytics Actions](https://github.com/ultralytics/agm2015/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/agm2015/actions/workflows/format.yml)
 [![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
-[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com)
 [![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
 
 ## 🎯 Introduction
 
-Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. This project represents an innovative endeavor by [Ultralytics](https://www.ultralytics.com/) to visualize and analyze antineutrino emissions across the globe, contributing valuable insights to fields like [geoscience](https://en.wikipedia.org/wiki/Geoscience) and [particle physics](https://home.cern/science/physics/). The map produced by this code provides a unique view of antineutrino emissions, capturing data from both natural and artificial sources, showcasing the power of [data visualization](https://www.ultralytics.com/glossary/data-visualization) in scientific research.
+Welcome to the AntiNeutrino Global Map (AGM) 2015 production code repository. This project represents an innovative endeavor by [Ultralytics](https://www.ultralytics.com) to visualize and analyze antineutrino emissions across the globe, contributing valuable insights to fields like [geoscience](https://en.wikipedia.org/wiki/Geoscience) and [particle physics](https://home.cern/science/physics/). The map produced by this code provides a unique view of antineutrino emissions, capturing data from both natural and artificial sources, showcasing the power of [data visualization](https://www.ultralytics.com/glossary/data-visualization) in scientific research.
 
 ## 📖 Description
 
@@ -57,7 +57,7 @@ To generate the AGM2015 output using the provided code, initialize the `input`, 
 fcnrunAGM(input, table, flags)
 ```
 
-This command initiates the script that processes the data and recreates the Antineutrino Global Map based on the 2015 study. The process leverages various functions from the included repositories and toolboxes. Explore the [Ultralytics documentation](https://docs.ultralytics.com/) for more examples of scientific computing projects.
+This command initiates the script that processes the data and recreates the Antineutrino Global Map based on the 2015 study. The process leverages various functions from the included repositories and toolboxes. Explore the [Ultralytics documentation](https://docs.ultralytics.com) for more examples of scientific computing projects.
 
 ## 💡 Contribute
 
